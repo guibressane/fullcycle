@@ -1,7 +1,7 @@
-# fullcycle-desafio-go
+# Fullcycle Desafio Golang
 Desafio de implementação da linguagem go em docker proposto por Fullcycle 
 
-## Exercício Docker Fullcycle
+## Docker Fullcycle
 
 Esse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go!
 Você terá que publicar uma imagem no docker hub. Quando executarmos:
